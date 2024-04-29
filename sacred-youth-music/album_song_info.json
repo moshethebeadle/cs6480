@@ -1,0 +1,889 @@
+{
+    "2024": {
+        "year": "2024",
+        "slug": "disciple-of-christ-2024-youth-album",
+        "songs": {
+            "disciple-of-christ-2024": {
+                "slug": "disciple-of-christ-2024",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=disciple-of-christ-2024",
+                "mp3_url": "https://assets.churchofjesuschrist.org/06/dc/06dc86c82bfd11ee86d1eeeeac1e74ed918cdfbc/disciple_of_christ_2024.mp3"
+            },
+            "diamond-2024": {
+                "slug": "diamond-2024",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=diamond-2024",
+                "mp3_url": "https://assets.churchofjesuschrist.org/92/7c/927c6c962b0611eeaaf6eeeeac1e962806a504b1/diamond_2024.mp3"
+            },
+            "when-i-found-you-2024": {
+                "slug": "when-i-found-you-2024",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=when-i-found-you-2024",
+                "mp3_url": "https://assets.churchofjesuschrist.org/04/9f/049f7ab62b0711ee8738eeeeac1eb37a3d9541ca/when_i_found_you_2024.mp3"
+            },
+            "truth-2024": {
+                "slug": "truth-2024",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=truth-2024",
+                "mp3_url": "https://assets.churchofjesuschrist.org/f4/d1/f4d100492b0611eea042eeeeac1e2a2891abb4db/truth_2024.mp3"
+            },
+            "he-still-chose-me-2024": {
+                "slug": "he-still-chose-me-2024",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=he-still-chose-me-2024",
+                "mp3_url": "https://assets.churchofjesuschrist.org/c0/8a/c08abce82b0611eea042eeeeac1e2a2873f71f91/he_still_chose_me_2024.mp3"
+            },
+            "one-true-hope-2024": {
+                "slug": "one-true-hope-2024",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=one-true-hope-2024",
+                "mp3_url": "https://assets.churchofjesuschrist.org/d4/a4/d4a44e862b0611eea7efeeeeac1e74eddcdf1529/one_true_hope_2024.mp3"
+            },
+            "disciple-of-christ-piano-version-2024": {
+                "slug": "disciple-of-christ-piano-version-2024",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=disciple-of-christ-piano-version-2024",
+                "mp3_url": "https://assets.churchofjesuschrist.org/9f/97/9f97ade52b0611ee8738eeeeac1eb37ad6ae135e/disciple_of_christ_female_2024.mp3"
+            },
+            "eternal-2024": {
+                "slug": "eternal-2024",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=eternal-2024",
+                "mp3_url": "https://assets.churchofjesuschrist.org/b7/8e/b78eeee62b0611ee8d92eeeeac1e192ae7f39c71/eternal_2024.mp3"
+            },
+            "beloved-2024": {
+                "slug": "beloved-2024",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=beloved-2024",
+                "mp3_url": "https://assets.churchofjesuschrist.org/7c/73/7c738e142b0611eea5edeeeeac1e2eaaf6b8a2ae/beloved_2024.mp3"
+            },
+            "over-mine-2024": {
+                "slug": "over-mine-2024",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=over-mine-2024",
+                "mp3_url": "https://assets.churchofjesuschrist.org/df/d4/dfd43a962b0611eea4e8eeeeac1eecd59fa4270b/over_mine_2024.mp3"
+            },
+            "savior-of-my-soul-2024": {
+                "slug": "savior-of-my-soul-2024",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=savior-of-my-soul-2024",
+                "mp3_url": "https://assets.churchofjesuschrist.org/ea/11/ea113b282b0611eeb868eeeeac1e0bba4f0489de/savior_of_my_soul_2024.mp3"
+            },
+            "living-water-2024": {
+                "slug": "living-water-2024",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=living-water-2024",
+                "mp3_url": "https://assets.churchofjesuschrist.org/c9/e8/c9e881072b0611eebf15eeeeac1e1d3cca142b72/living_water_2023.mp3"
+            },
+            "beloved-reimagined-2024": {
+                "slug": "beloved-reimagined-2024",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=beloved-reimagined-2024",
+                "mp3_url": "https://assets.churchofjesuschrist.org/88/1a/881a7ee92b0611eea81ceeeeac1e2639169d068d/beloved_reimagined.mp3"
+            },
+            "disciple-of-christ-choir-2024": {
+                "slug": "disciple-of-christ-choir-2024",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=disciple-of-christ-choir-2024",
+                "mp3_url": null
+            },
+            "its-not-hopeless": {
+                "slug": "its-not-hopeless",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=its-not-hopeless",
+                "mp3_url": "https://assets.churchofjesuschrist.org/9b/bd/9bbd6af2b6c811edb281eeeeac1eb48cb460bc77/its_not_hopeless.mp3"
+            },
+            "free-2023": {
+                "slug": "free-2023",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=free-2023",
+                "mp3_url": "https://assets.churchofjesuschrist.org/d9/6f/d96f6367c43511edb0d7eeeeac1ee259a798b05a/free_2023.mp3"
+            },
+            "no-stranger": {
+                "slug": "no-stranger",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=no-stranger",
+                "mp3_url": "https://assets.churchofjesuschrist.org/fb/49/fb490144e92911edb0a5eeeeac1ea07d6f067e59/no_stranger_2023.mp3"
+            },
+            "i-choose-you-emolyn": {
+                "slug": "i-choose-you-emolyn",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=i-choose-you-emolyn",
+                "mp3_url": "https://assets.churchofjesuschrist.org/8f/82/8f8260990c7411ee9bbbeeeeac1ece4f80885f76/i_choose_you_sadie_2023.mp3"
+            },
+            "next-to-me": {
+                "slug": "next-to-me",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=next-to-me",
+                "mp3_url": "https://assets.churchofjesuschrist.org/80/8c/808c9e6e121011eea61deeeeac1e49d649c960bb/next_to_me_2023.mp3"
+            },
+            "if-you-believe-ellie-2023": {
+                "slug": "if-you-believe-ellie-2023",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=if-you-believe-ellie-2023",
+                "mp3_url": "https://assets.churchofjesuschrist.org/51/08/5108034e203111ee9b61eeeeac1e2238b403fb54/if_you_believe_ellie_2023.mp3"
+            },
+            "together": {
+                "slug": "together",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=together",
+                "mp3_url": "https://assets.churchofjesuschrist.org/2d/df/2ddfd88821a111ee9be7eeeeac1e65aa8c35a423/together_2023.mp3"
+            },
+            "celebrate": {
+                "slug": "celebrate",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=celebrate",
+                "mp3_url": "https://assets.churchofjesuschrist.org/27/f9/27f939c621a111ee9b06eeeeac1ea18de853183a/celebrate_2023.mp3"
+            }
+        }
+    },
+    "2023": {
+        "year": "2023",
+        "slug": "i-can-do-all-things-2023-youth-album",
+        "songs": {
+            "i-can-do-all-things-2023": {
+                "slug": "i-can-do-all-things-2023",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=i-can-do-all-things-2023",
+                "mp3_url": "https://assets.churchofjesuschrist.org/09/81/09811fc6391f11ed9d29eeeeac1e41c5fd4aa607/i_can_do_all_things_2023_female.mp3"
+            },
+            "he-will-be-there-2023": {
+                "slug": "he-will-be-there-2023",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=he-will-be-there-2023",
+                "mp3_url": "https://assets.churchofjesuschrist.org/07/6d/076dd024391f11ed8d89eeeeac1ec9fe40f5c72d/he_will_be_there_2023.mp3"
+            },
+            "faith-2023": {
+                "slug": "faith-2023",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=faith-2023",
+                "mp3_url": "https://assets.churchofjesuschrist.org/04/e7/04e7e898391f11edb800eeeeac1e1a13471d337f/faith_2023_vocal.mp3"
+            },
+            "highs-and-lows-2023": {
+                "slug": "highs-and-lows-2023",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=highs-and-lows-2023",
+                "mp3_url": "https://assets.churchofjesuschrist.org/08/06/0806188c391f11edb94ceeeeac1ebbbd4c0a3ade/highs_and_lows_2023.mp3"
+            },
+            "how-is-it-done-2023": {
+                "slug": "how-is-it-done-2023",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=how-is-it-done-2023",
+                "mp3_url": "https://assets.churchofjesuschrist.org/08/af/08afed1b391f11ed93a0eeeeac1e80cd7f8aa6c4/how_is_it_done_2023.mp3"
+            },
+            "the-only-one-2023": {
+                "slug": "the-only-one-2023",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=the-only-one-2023",
+                "mp3_url": "https://assets.churchofjesuschrist.org/0c/6d/0c6d6a4d391f11ed93a0eeeeac1e80cda89bd0cd/the_only_one_2023.mp3"
+            },
+            "i-can-do-all-things-reimagined-2023": {
+                "slug": "i-can-do-all-things-reimagined-2023",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=i-can-do-all-things-reimagined-2023",
+                "mp3_url": "https://assets.churchofjesuschrist.org/0a/3b/0a3bbd3c391f11ed93a0eeeeac1e80cdec48a8c3/i_can_do_all_things_2023_male.mp3"
+            },
+            "your-love-reminds-me-2023": {
+                "slug": "your-love-reminds-me-2023",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=your-love-reminds-me-2023",
+                "mp3_url": "https://assets.churchofjesuschrist.org/0d/de/0dde3855391f11edbc0deeeeac1eb8fa5b5b3fe0/your_love_reminds_me_2023.mp3"
+            },
+            "sticks-and-stones-2023": {
+                "slug": "sticks-and-stones-2023",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=sticks-and-stones-2023",
+                "mp3_url": "https://assets.churchofjesuschrist.org/0b/b7/0bb739a9391f11edb800eeeeac1e1a13392e801f/sticks_and_stones_2023.mp3"
+            },
+            "i-choose-you-2023": {
+                "slug": "i-choose-you-2023",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=i-choose-you-2023",
+                "mp3_url": "https://assets.churchofjesuschrist.org/0a/f9/0af940d9391f11eda183eeeeac1e9261f04ce031/i_choose_you_2023.mp3"
+            },
+            "all-my-heart-2022": {
+                "slug": "all-my-heart-2022",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=all-my-heart-2022",
+                "mp3_url": "https://assets.churchofjesuschrist.org/04/3f/043fe8cc391f11ed8a8aeeeeac1e569b1573ff58/all_my_heart_2023.mp3"
+            },
+            "witness-2023": {
+                "slug": "witness-2023",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=witness-2023",
+                "mp3_url": "https://assets.churchofjesuschrist.org/0d/32/0d3267ef391f11ed8703eeeeac1e4746ef18af3f/witness_2023.mp3"
+            },
+            "i-can-do-all-things-choir-2023": {
+                "slug": "i-can-do-all-things-choir-2023",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=i-can-do-all-things-choir-2023",
+                "mp3_url": null
+            },
+            "grateful-for-the-rain-2023": {
+                "slug": "grateful-for-the-rain-2023",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=grateful-for-the-rain-2023",
+                "mp3_url": "https://assets.churchofjesuschrist.org/96/21/9621ac75e2a611ec9930eeeeac1e63b8c2ac45f4/grateful_for_the_rain_2022.mp3"
+            },
+            "found-me": {
+                "slug": "found-me",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=found-me",
+                "mp3_url": "https://assets.churchofjesuschrist.org/82/cc/82ccdca0f8ac11ec9eebeeeeac1ef7f014a2c51f/found_me_2022.mp3"
+            },
+            "here-i-am-again": {
+                "slug": "here-i-am-again",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=here-i-am-again",
+                "mp3_url": "https://assets.churchofjesuschrist.org/0e/24/0e2453ca1fca11ed960ceeeeac1e59a0760e4cdd/here_i_am_again_eng.mp3"
+            },
+            "youth-theme-medley-2024": {
+                "slug": "youth-theme-medley-2024",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=youth-theme-medley-2024",
+                "mp3_url": "https://assets.churchofjesuschrist.org/7e/13/7e13689e822711edbf26eeeeac1e0d226be4aab7/2022_youth_theme_medley.mp3"
+            }
+        }
+    },
+    "2022": {
+        "year": "2022",
+        "slug": "trust-in-the-lord-2022-youth-album",
+        "songs": {
+            "trust-in-the-lord": {
+                "slug": "trust-in-the-lord",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=trust-in-the-lord",
+                "mp3_url": "https://assets.ldscdn.org/fe/57/fe57a49c472511ecb915eeeeac1e6f4b84d3b3d7/trust_in_the_lord_eng.mp3"
+            },
+            "dust": {
+                "slug": "dust",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=dust",
+                "mp3_url": "https://assets.ldscdn.org/fa/d4/fad4bfb9472511ec9461eeeeac1efd8bf160d43f/dust_eng.mp3"
+            },
+            "serve-the-lord": {
+                "slug": "serve-the-lord",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=serve-the-lord",
+                "mp3_url": "https://assets.ldscdn.org/fd/9b/fd9ba789472511ec85f5eeeeac1e3d5630c89998/serve_the_lord_eng.mp3"
+            },
+            "light-my-way": {
+                "slug": "light-my-way",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=light-my-way",
+                "mp3_url": "https://assets.ldscdn.org/fc/40/fc405d75472511ecbc9ceeeeac1e9a91a1a55f3c/light_my_way_eng.mp3"
+            },
+            "divine": {
+                "slug": "divine",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=divine",
+                "mp3_url": "https://assets.ldscdn.org/fa/8a/fa8a91cd472511ecbf06eeeeac1e52378e4a7785/divine_eng.mp3"
+            },
+            "i-surrender": {
+                "slug": "i-surrender",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=i-surrender",
+                "mp3_url": "https://assets.churchofjesuschrist.org/fb/f4/fbf4608a472511ec9461eeeeac1efd8b748e6d7c/i_surrender_eng.mp3"
+            },
+            "healer": {
+                "slug": "healer",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=healer",
+                "mp3_url": "https://assets.ldscdn.org/fb/37/fb37c6fb472511ecb915eeeeac1e6f4b8048e31b/healer_eng.mp3"
+            },
+            "look-to-you": {
+                "slug": "look-to-you",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=look-to-you",
+                "mp3_url": "https://assets.ldscdn.org/fc/8c/fc8c8172472511eca66beeeeac1ec8b64d0bb42f/look_to_you_eng.mp3"
+            },
+            "i-need-him": {
+                "slug": "i-need-him",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=i-need-him",
+                "mp3_url": "https://assets.ldscdn.org/fb/95/fb95eca9472511ec9a0eeeeeac1ede173e76ae26/i_need_him_eng.mp3"
+            },
+            "possible-with-him": {
+                "slug": "possible-with-him",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=possible-with-him",
+                "mp3_url": "https://assets.ldscdn.org/fd/42/fd42160a472511ec9a0eeeeeac1ede174b4523fa/possible_with_him_eng.mp3"
+            },
+            "speak-to-me": {
+                "slug": "speak-to-me",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=speak-to-me",
+                "mp3_url": "https://assets.ldscdn.org/fd/dc/fddc80b7472511ec8640eeeeac1e3514aad873b3/speak_to_me_eng.mp3"
+            },
+            "send-me": {
+                "slug": "send-me",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=send-me",
+                "mp3_url": "https://assets.ldscdn.org/db/2a/db2a67ed472611ec87bbeeeeac1ee10b1230ad79/send_me_eng.mp3"
+            }
+        }
+    },
+    "2021": {
+        "year": "2021",
+        "slug": "a-great-work-2021-youth-album",
+        "songs": {
+            "a-great-work": {
+                "slug": "a-great-work",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=a-great-work",
+                "mp3_url": "https://assets.churchofjesuschrist.org/01/53/0153fe347acddb33b04439005f28df2e2dc243cb/a_great_work.mp3"
+            },
+            "if-you-believe": {
+                "slug": "if-you-believe",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=if-you-believe",
+                "mp3_url": "https://assets.churchofjesuschrist.org/d3/9d/d39d6b23fc2611ee9967eeeeac1e1aeb6ac70ac8/if_you_believe.mp3"
+            },
+            "small-things": {
+                "slug": "small-things",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=small-things",
+                "mp3_url": "https://assets.churchofjesuschrist.org/ce/7c/ce7c08360a1f2455a6e7b28d05c0aa277d065fc8/small_things_youth_music.mp3"
+            },
+            "your-voice": {
+                "slug": "your-voice",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=your-voice",
+                "mp3_url": "https://assets.churchofjesuschrist.org/a0/36/a036486b6b441be459b0a763a2fbf081bd7051dd/youth_theme_2021_your_voice.mp3"
+            },
+            "come-to-the-well": {
+                "slug": "come-to-the-well",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=come-to-the-well",
+                "mp3_url": "https://assets.churchofjesuschrist.org/76/63/7663b8cb2b4555f5c57ec922c5200d1d9d001a9b/youth_theme_2021_come_to_the_well.mp3"
+            },
+            "one-soul": {
+                "slug": "one-soul",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=one-soul",
+                "mp3_url": "https://assets.churchofjesuschrist.org/61/02/610253103ff748637fae8f9732f759bd1ed2a434/youth_theme_2021_good_day.mp3"
+            },
+            "i-am-a-son-of-god": {
+                "slug": "i-am-a-son-of-god",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=i-am-a-son-of-god",
+                "mp3_url": "https://assets.churchofjesuschrist.org/d7/87/d7870e4874935746501104a74e26dc063cf946f4/youth_theme_2021_i_am_a_son_of_god.mp3"
+            },
+            "his-kindness-in-me": {
+                "slug": "his-kindness-in-me",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=his-kindness-in-me",
+                "mp3_url": "https://assets.churchofjesuschrist.org/db/7b/db7bcc22e1989172e2487080929aa7b87b46e630/youth_theme_2021_his_kindness_in_me.mp3"
+            },
+            "i-will": {
+                "slug": "i-will",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=i-will",
+                "mp3_url": "https://assets.churchofjesuschrist.org/13/72/13728ccff07d1dcbb62a3d603826a3f19851fc6f/youth_theme_2021_i_will.mp3"
+            },
+            "we-know-his-name": {
+                "slug": "we-know-his-name",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=we-know-his-name",
+                "mp3_url": "https://assets.churchofjesuschrist.org/72/5f/725fa201723f852dd73fcd8ae6bc927bbe87f1ba/youth_theme_2021_we_know_his_name.mp3"
+            },
+            "free-my-soul": {
+                "slug": "free-my-soul",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=free-my-soul",
+                "mp3_url": "https://assets.churchofjesuschrist.org/9d/31/9d3128ac85128fd4ad14ccc944d2b46837e32c9a/youth_theme_2021_free_my_soul.mp3"
+            },
+            "never-that-bad": {
+                "slug": "never-that-bad",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=never-that-bad",
+                "mp3_url": "https://assets.churchofjesuschrist.org/79/46/7946b07dc26c498973eef01ee572267cbc29663d/youth_theme_2021_never_that_bad.mp3"
+            },
+            "he-reigns": {
+                "slug": "he-reigns",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=he-reigns",
+                "mp3_url": "https://assets.churchofjesuschrist.org/db/36/db36a8f06722460a2fdb1f455df4a3b46a6f2385/youth_theme_2021_he_reigns.mp3"
+            },
+            "a-great-work-acoustic": {
+                "slug": "a-great-work-acoustic",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=a-great-work-acoustic",
+                "mp3_url": "https://assets.churchofjesuschrist.org/1b/e5/1be55812da54342d054d11d59632d077d28eb3e0/youth_theme_2021_a_great_work_female_version.mp3"
+            },
+            "a-great-work-face-to-face": {
+                "slug": "a-great-work-face-to-face",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=a-great-work-face-to-face",
+                "mp3_url": "https://assets.churchofjesuschrist.org/01/d9/01d94edab2dd1eefadab3a6d54a3d4a57571e690/great_work_youth_theme.mp3"
+            },
+            "2021-11-hold-on-to-me": {
+                "slug": "2021-11-hold-on-to-me",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=2021-11-hold-on-to-me",
+                "mp3_url": "https://assets.churchofjesuschrist.org/5b/7e/5b7e32a63d7511ec8ef9eeeeac1e99aa2070105d/2021_11_hold_on_to_me_eng.mp3"
+            },
+            "2021-11-hear-him": {
+                "slug": "2021-11-hear-him",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=2021-11-hear-him",
+                "mp3_url": "https://assets.churchofjesuschrist.org/58/bb/58bbde5a3d7511eca29deeeeac1e03f95ebc2092/2021_11_hear_him_eng.mp3"
+            },
+            "2021-11-faith-in-you": {
+                "slug": "2021-11-faith-in-you",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=2021-11-faith-in-you",
+                "mp3_url": "https://assets.churchofjesuschrist.org/55/52/555256b23d7511ec91c8eeeeac1e74a3525c09bf/2021_11_faith_in_you_eng.mp3"
+            },
+            "2021-11-ill-never-forget": {
+                "slug": "2021-11-ill-never-forget",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=2021-11-ill-never-forget",
+                "mp3_url": "https://assets.churchofjesuschrist.org/5e/a2/5ea2085e3d7511ecac35eeeeac1e7c59ad2ef7cc/2021_11_ill_never_forget_eng.mp3"
+            }
+        }
+    },
+    "2020": {
+        "year": "2020",
+        "slug": "i-will-go-and-do-2020-youth-album",
+        "songs": {
+            "i-will-go-and-do": {
+                "slug": "i-will-go-and-do",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=i-will-go-and-do",
+                "mp3_url": "https://assets.churchofjesuschrist.org/bd/66/bd6610739fe24c5f0fa43d283be75f493bdd4de7/i_will_go_and_do.mp3"
+            },
+            "light-of-the-world-day": {
+                "slug": "light-of-the-world-day",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=light-of-the-world-day",
+                "mp3_url": "https://assets.churchofjesuschrist.org/09/a8/09a8872e957b094c77888dfc0f52ff017322fd1b/light_of_the_world.mp3"
+            },
+            "like-him": {
+                "slug": "like-him",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=like-him",
+                "mp3_url": "https://assets.churchofjesuschrist.org/a9/b9/a9b99f6b2d0687dbc39455fa72cff7ca12c969cc/like_him.mp3"
+            },
+            "what-does-he-think": {
+                "slug": "what-does-he-think",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=what-does-he-think",
+                "mp3_url": "https://assets.churchofjesuschrist.org/38/45/3845a422e7dfe30cc63c73152029ea63ee48f20e/what_does_he_think.mp3"
+            },
+            "reaching-out": {
+                "slug": "reaching-out",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=reaching-out",
+                "mp3_url": "https://assets.churchofjesuschrist.org/f2/96/f296eac759abec3220c2332815e9b54920878698/reaching_out.mp3"
+            },
+            "he-will-never-change": {
+                "slug": "he-will-never-change",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=he-will-never-change",
+                "mp3_url": "https://assets.churchofjesuschrist.org/fc/e5/fce57595d25ef1587c35e049b801e44bfe801725/he_will_never_change.mp3"
+            },
+            "always": {
+                "slug": "always",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=always",
+                "mp3_url": "https://assets.churchofjesuschrist.org/14/20/14205f1ef6f839ef60048add4824f1aca408d9f2/always.mp3"
+            },
+            "pillar-of-light": {
+                "slug": "pillar-of-light",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=pillar-of-light",
+                "mp3_url": "https://assets.churchofjesuschrist.org/0b/18/0b1860706a432abf06d53f03fe22544120c231c7/pillar_of_light.mp3"
+            },
+            "live-forever": {
+                "slug": "live-forever",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=live-forever",
+                "mp3_url": "https://assets.churchofjesuschrist.org/e4/96/e49685ea4af5b9363d213623e2f107ec7b35a5dc/live_forever.mp3"
+            },
+            "listening": {
+                "slug": "listening",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=listening",
+                "mp3_url": "https://assets.churchofjesuschrist.org/ba/b9/bab9a6cf209816e87630f37effc47ad737e298d4/listening.mp3"
+            },
+            "lonely": {
+                "slug": "lonely",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=lonely",
+                "mp3_url": "https://assets.churchofjesuschrist.org/06/de/06de138ccdbe77e7a341a324e8461d74e3a88746/lonely_2020_youth_theme_audio.mp3"
+            },
+            "i-will-go-and-do-choir": {
+                "slug": "i-will-go-and-do-choir",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=i-will-go-and-do-choir",
+                "mp3_url": "https://assets.churchofjesuschrist.org/5b/88/5b883c2364000bba78861e466ffc4d87ab87ad25/i_will_go_and_do_2020_youth_theme_audio.mp3"
+            },
+            "good-day": {
+                "slug": "good-day",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=good-day",
+                "mp3_url": "https://assets.churchofjesuschrist.org/60/91/6091209f078a55c1f523e9fbaaca96bec3045cbe/good_day.mp3"
+            }
+        }
+    },
+    "2019": {
+        "year": "2019",
+        "slug": "if-we-love-him-2019-youth-album",
+        "songs": {
+            "if-we-love-him": {
+                "slug": "if-we-love-him",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=if-we-love-him",
+                "mp3_url": "https://assets.churchofjesuschrist.org/e3/03/e3038a935f1fa47b806d1a9d1bb450e3ab926484/if_we_love_him_2019_youth_album_female.mp3"
+            },
+            "footsteps": {
+                "slug": "footsteps",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=footsteps",
+                "mp3_url": "https://assets.churchofjesuschrist.org/0b/da/0bda713275b894ddf756d408e6d32c245eb65431/footsteps_2019_youth_album.mp3"
+            },
+            "hide": {
+                "slug": "hide",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=hide",
+                "mp3_url": "https://assets.churchofjesuschrist.org/a7/36/a73693338147061ee2a3e4775aef27a9643801fb/hide_2019_youth_album.mp3"
+            },
+            "rest": {
+                "slug": "rest",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=rest",
+                "mp3_url": "https://assets.churchofjesuschrist.org/73/64/7364d23b75dba3ce64597c37fba6507631523b7d/rest_2019_youth_album.mp3"
+            },
+            "youre-not-your-mistakes": {
+                "slug": "youre-not-your-mistakes",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=youre-not-your-mistakes",
+                "mp3_url": "https://assets.churchofjesuschrist.org/0e/29/0e2939e98b17cce3dbbd983f4584bd509d3fd746/you_are_not_your_mistakes_2019_youth_album.mp3"
+            },
+            "never-ends": {
+                "slug": "never-ends",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=never-ends",
+                "mp3_url": "https://assets.churchofjesuschrist.org/52/bd/52bd5833bc1b015bd9d0a1944355647d91abb7b7/never_ends_2019_youth_album.mp3"
+            },
+            "merciful": {
+                "slug": "merciful",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=merciful",
+                "mp3_url": "https://assets.churchofjesuschrist.org/34/61/3461bf731987176d9260da82c9154d41506e9bc2/merciful_2019_youth_album.mp3"
+            },
+            "his-name": {
+                "slug": "his-name",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=his-name",
+                "mp3_url": "https://assets.churchofjesuschrist.org/c7/08/c708669aae8534c7f4f0c242ee71c36005557fb4/his_name_2019_youth_album.mp3"
+            },
+            "just-a-feeling": {
+                "slug": "just-a-feeling",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=just-a-feeling",
+                "mp3_url": "https://assets.churchofjesuschrist.org/51/e8/51e82e24f6875679ecba3071edcb80bd24172d94/just_a_feeling_2019_youth_album.mp3"
+            },
+            "forget": {
+                "slug": "forget",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=forget",
+                "mp3_url": "https://assets.churchofjesuschrist.org/de/70/de7033dddbeb2b5c211d4760152419b856e9bd1a/forget_2019_youth_album.mp3"
+            },
+            "if-we-love-him-male": {
+                "slug": "if-we-love-him-male",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=if-we-love-him-male",
+                "mp3_url": "https://assets.churchofjesuschrist.org/2a/b2/2ab2c4950ddf01369322c66aa0dbf5071da8dcbb/if_we_love_him_2019_youth_album_male.mp3"
+            }
+        }
+    },
+    "2018": {
+        "year": "2018",
+        "slug": "peace-in-christ-2018-youth-album",
+        "songs": {
+            "peace-in-christ": {
+                "slug": "peace-in-christ",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=peace-in-christ",
+                "mp3_url": "https://assets.churchofjesuschrist.org/c8/14/c8144cc8d39208e2c5085002a7ce36f4fc1311e2/2018_mutual_music_peace_in_christ.mp3"
+            },
+            "the-unknown": {
+                "slug": "the-unknown",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=the-unknown",
+                "mp3_url": "https://assets.churchofjesuschrist.org/f4/16/f41634595a0dab9a35ae81ea59539fd77f5a36bb/2018_mutual_music_the_unknown.mp3"
+            },
+            "change": {
+                "slug": "change",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=change",
+                "mp3_url": "https://assets.churchofjesuschrist.org/84/31/843190070c0be7bb19cddafcefa0c36ab43fdf4e/2018_mutual_music_change.mp3"
+            },
+            "the-body-of-christ": {
+                "slug": "the-body-of-christ",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=the-body-of-christ",
+                "mp3_url": "https://assets.churchofjesuschrist.org/40/98/40988590bcbfbc75580e50d6ee892efb5b5913d1/2018_mutual_music_body_of_christ.mp3"
+            },
+            "big-or-small": {
+                "slug": "big-or-small",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=big-or-small",
+                "mp3_url": "https://assets.churchofjesuschrist.org/e8/99/e89956a7e988e2526faff6ba2c959f415e1b3392/2018_mutual_music_big_or_small.mp3"
+            },
+            "hear-it-from-you": {
+                "slug": "hear-it-from-you",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=hear-it-from-you",
+                "mp3_url": "https://assets.churchofjesuschrist.org/7e/09/7e0926d0a71e7c8f35702584f3d93705413e914b/2018_mutual_music_hear_it_from_you.mp3"
+            },
+            "he-taught-us-to-love": {
+                "slug": "he-taught-us-to-love",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=he-taught-us-to-love",
+                "mp3_url": "https://assets.churchofjesuschrist.org/5a/c2/5ac23d77af58c9d33ea97997bc5c98b024c6e5c2/2018_mutual_music_he_taught_us_to_love.mp3"
+            },
+            "i-will-follow-him": {
+                "slug": "i-will-follow-him",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=i-will-follow-him",
+                "mp3_url": "https://assets.churchofjesuschrist.org/71/77/717780e17d342c31a152306388e6e89fb07404e1/2018_mutual_music_i_will_follow_him.mp3"
+            },
+            "empty": {
+                "slug": "empty",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=empty",
+                "mp3_url": "https://assets.churchofjesuschrist.org/d7/67/d76778e0c6fac536816331d211155ba78f9747e6/2018_mutual_music_empty.mp3"
+            },
+            "like-a-child": {
+                "slug": "like-a-child",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=like-a-child",
+                "mp3_url": "https://assets.churchofjesuschrist.org/5d/a6/5da61df35790acd93207999b569c3797a81c25f5/2018_mutual_music_like_a_child.mp3"
+            },
+            "strong": {
+                "slug": "strong",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=strong",
+                "mp3_url": "https://assets.churchofjesuschrist.org/ef/00/ef00b0f63ac75371fc12c294321a62fd0eacb866/2018_mutual_music_strong.mp3"
+            },
+            "peace-in-christ-male": {
+                "slug": "peace-in-christ-male",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=peace-in-christ-male",
+                "mp3_url": "https://assets.churchofjesuschrist.org/89/6c/896c47f7ce54f1734857ba02323c31ec2d81488e/2018_mutual_music_peace_in_christ_male.mp3"
+            }
+        }
+    },
+    "2017": {
+        "year": "2017",
+        "slug": "ask-of-god-2017-youth-album",
+        "songs": {
+            "ask-of-god": {
+                "slug": "ask-of-god",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=ask-of-god",
+                "mp3_url": "https://assets.churchofjesuschrist.org/ee/91/ee912be6fb673797da87ee48ce8cd61651991b68/2018_mutual_music_peace_in_christ.mp3"
+            },
+            "one-by-one-day": {
+                "slug": "one-by-one-day",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=one-by-one-day",
+                "mp3_url": "https://assets.churchofjesuschrist.org/c7/cf/c7cfec1bedb9d38edc57ecbecedbc7e46babc0ba/2018_mutual_music_big_or_small.mp3"
+            },
+            "what-family-means-to-me": {
+                "slug": "what-family-means-to-me",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=what-family-means-to-me",
+                "mp3_url": "https://assets.churchofjesuschrist.org/7b/c0/7bc0d2e2f85570f31086ceeb48a0f6f273535e2c/2018_mutual_music_he_taught_us_to_love.mp3"
+            },
+            "thy-will-be-done": {
+                "slug": "thy-will-be-done",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=thy-will-be-done",
+                "mp3_url": "https://assets.churchofjesuschrist.org/46/8c/468c3a4cf135a7570ce2e8f8d508ed558665d821/2018_mutual_music_empty.mp3"
+            },
+            "choose-to-stay": {
+                "slug": "choose-to-stay",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=choose-to-stay",
+                "mp3_url": "https://assets.churchofjesuschrist.org/3d/9d/3d9d807531a41c7288d1ab7c9e6b1ba9ef40f16f/2018_mutual_music_strong.mp3"
+            },
+            "i-hear-his-voice": {
+                "slug": "i-hear-his-voice",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=i-hear-his-voice",
+                "mp3_url": "https://assets.churchofjesuschrist.org/98/99/989960ca9a92c24471cf336a56d444484e436557/i_hear_his_voice.mp3"
+            },
+            "blessings-day-harms": {
+                "slug": "blessings-day-harms",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=blessings-day-harms",
+                "mp3_url": "https://assets.churchofjesuschrist.org/4f/09/4f0973fe32d9109f7460fdd9c979c418295831cd/blessings.mp3"
+            },
+            "better-life": {
+                "slug": "better-life",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=better-life",
+                "mp3_url": "https://assets.churchofjesuschrist.org/f5/c2/f5c278d48ef98db0f66eebfd930be86ed0e4855c/better_life.mp3"
+            },
+            "priceless": {
+                "slug": "priceless",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=priceless",
+                "mp3_url": "https://assets.churchofjesuschrist.org/5b/f3/5bf3a1644756cc35bf5f296f3324f359f1f0a905/priceless.mp3"
+            },
+            "healing-water": {
+                "slug": "healing-water",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=healing-water",
+                "mp3_url": "https://assets.churchofjesuschrist.org/5d/86/5d86f09619ef0f4c20d9d30a69259762bb06d0f5/healing_water.mp3"
+            },
+            "ask-of-god-acoustic": {
+                "slug": "ask-of-god-acoustic",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=ask-of-god-acoustic",
+                "mp3_url": "https://assets.churchofjesuschrist.org/c3/b9/c3b9ffe5f36f33ad256c475df4f7e920119281e1/2018_mutual_music_change.mp3"
+            }
+        }
+    },
+    "2016": {
+        "year": "2016",
+        "slug": "press-forward-2016-youth-album",
+        "songs": {
+            "press-forward": {
+                "slug": "press-forward",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=press-forward",
+                "mp3_url": "https://media2.ldscdn.org/assets/music/2016-youth-music-album/2016-01-001-press-forward-256k-eng.mp3"
+            },
+            "you-already-know-it": {
+                "slug": "you-already-know-it",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=you-already-know-it",
+                "mp3_url": "https://media2.ldscdn.org/assets/music/2016-youth-music-album/2016-01-002-you-already-know-it-256k-eng.mp3"
+            },
+            "new-life": {
+                "slug": "new-life",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=new-life",
+                "mp3_url": "https://media2.ldscdn.org/assets/music/2016-youth-music-album/2016-01-003-new-life-256k-eng.mp3"
+            },
+            "treat-everyone-with-love": {
+                "slug": "treat-everyone-with-love",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=treat-everyone-with-love",
+                "mp3_url": "https://media2.ldscdn.org/assets/music/2016-youth-music-album/2016-01-004-treat-everyone-with-love-256k-eng.mp3"
+            },
+            "nothing-can-separate-us": {
+                "slug": "nothing-can-separate-us",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=nothing-can-separate-us",
+                "mp3_url": "https://media2.ldscdn.org/assets/music/2016-youth-music-album/2016-01-005-nothing-can-separate-us-256k-eng.mp3"
+            },
+            "he-is-there": {
+                "slug": "he-is-there",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=he-is-there",
+                "mp3_url": "https:/s/media2.ldscdn.org/assets/music/2016-youth-music-album/2016-01-006-he-is-there-256k-eng.mp3"
+            },
+            "its-not-about-you": {
+                "slug": "its-not-about-you",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=its-not-about-you",
+                "mp3_url": "https://assets.churchofjesuschrist.org/04/5e/045ed8c11bbe5380ad000e263955e2dcb74dec7d/its_not_about_you.mp3"
+            },
+            "lay-it-down": {
+                "slug": "lay-it-down",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=lay-it-down",
+                "mp3_url": "https://media2.ldscdn.org/assets/music/2016-youth-music-album/2016-01-008-lay-it-down-256k-eng.mp3"
+            },
+            "thats-how-ill-be": {
+                "slug": "thats-how-ill-be",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=thats-how-ill-be",
+                "mp3_url": "https://media2.ldscdn.org/assets/music/2016-youth-music-album/2016-01-009-thats-how-ill-be-256k-eng.mp3"
+            },
+            "when-the-time-is-right": {
+                "slug": "when-the-time-is-right",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=when-the-time-is-right",
+                "mp3_url": "https://assets.churchofjesuschrist.org/03/42/03420d989a33990f3c07d07e15909d7fe5bb65bb/when_the_time_is_right.mp3"
+            },
+            "lift-your-eyes": {
+                "slug": "lift-your-eyes",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=lift-your-eyes",
+                "mp3_url": "https://media2.ldscdn.org/assets/music/2016-youth-music-album/2016-01-011-lift-your-eyes-256k-eng.mp3"
+            },
+            "press-forward-acoustic": {
+                "slug": "press-forward-acoustic",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=press-forward-acoustic",
+                "mp3_url": "https://media2.ldscdn.org/assets/music/2016-youth-music-album/2016-01-012-press-forward-acoustic-256k-eng.mp3"
+            },
+            "press-forward-male": {
+                "slug": "press-forward-male",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=press-forward-male",
+                "mp3_url": null
+            }
+        }
+    },
+    "2015": {
+        "year": "2015",
+        "slug": "embark-2015-youth-album",
+        "songs": {
+            "embark": {
+                "slug": "embark",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=embark",
+                "mp3_url": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-001-embark-256k-eng.mp3"
+            },
+            "closer": {
+                "slug": "closer",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=closer",
+                "mp3_url": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-002-closer-256k-eng.mp3"
+            },
+            "show-them": {
+                "slug": "show-them",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=show-them",
+                "mp3_url": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-003-show-them-256k-eng.mp3"
+            },
+            "silent": {
+                "slug": "silent",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=silent",
+                "mp3_url": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-004-silent-256k-eng.mp3"
+            },
+            "fragile": {
+                "slug": "fragile",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=fragile",
+                "mp3_url": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-005-fragile-256k-eng.mp3"
+            },
+            "this-life": {
+                "slug": "this-life",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=this-life",
+                "mp3_url": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-006-this-life-256k-eng.mp3"
+            },
+            "someone-he-can-count-on": {
+                "slug": "someone-he-can-count-on",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=someone-he-can-count-on",
+                "mp3_url": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-007-someone-he-can-count-on-256k-eng.mp3"
+            },
+            "good-to-be-alive": {
+                "slug": "good-to-be-alive",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=good-to-be-alive",
+                "mp3_url": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-008-good-to-be-alive-256k-eng.mp3"
+            },
+            "inside-out": {
+                "slug": "inside-out",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=inside-out",
+                "mp3_url": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-009-inside-out-256k-eng.mp3"
+            },
+            "only-you": {
+                "slug": "only-you",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=only-you",
+                "mp3_url": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-010-only-you-256k-eng.mp3"
+            },
+            "were-just-people": {
+                "slug": "were-just-people",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=were-just-people",
+                "mp3_url": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-011-were-just-people-256k-eng.mp3"
+            },
+            "i-can-do-all-things": {
+                "slug": "i-can-do-all-things",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=i-can-do-all-things",
+                "mp3_url": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-012-i-can-do-all-things-256k-eng.mp3"
+            },
+            "embark-female": {
+                "slug": "embark-female",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=embark-female",
+                "mp3_url": null
+            }
+        }
+    },
+    "2014": {
+        "year": "2014",
+        "slug": "come-unto-christ-2014-youth-album",
+        "songs": {
+            "come-unto-christ": {
+                "slug": "come-unto-christ",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=come-unto-christ",
+                "mp3_url": "https://media2.ldscdn.org/assets/youth/2014-youth-activity-resources/2014-01-002-come-unto-christ-2014-theme-song-64k-eng.mp3"
+            },
+            "give-away": {
+                "slug": "give-away",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=give-away",
+                "mp3_url": "https://media2.ldscdn.org/assets/music/2014-youth-music-album/2014-12-001-give-away-256k-eng.mp3"
+            },
+            "say-yes": {
+                "slug": "say-yes",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=say-yes",
+                "mp3_url": "https://media2.ldscdn.org/assets/music/2014-youth-music-album/2014-12-002-say-yes-256k-eng.mp3"
+            },
+            "trust-him": {
+                "slug": "trust-him",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=trust-him",
+                "mp3_url": "https://media2.ldscdn.org/assets/music/2014-youth-music-album/2014-12-003-trust-him-256k-eng.mp3"
+            },
+            "we-are-one": {
+                "slug": "we-are-one",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=we-are-one",
+                "mp3_url": "https://media2.ldscdn.org/assets/music/2014-youth-music-album/2014-12-004-we-are-one-256k-eng.mp3"
+            },
+            "wonderful-people": {
+                "slug": "wonderful-people",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=wonderful-people",
+                "mp3_url": "https://media2.ldscdn.org/assets/music/2014-youth-music-album/2014-12-005-wonderful-people-256k-eng.mp3"
+            },
+            "youll-never-run-out-of-love": {
+                "slug": "youll-never-run-out-of-love",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=youll-never-run-out-of-love",
+                "mp3_url": "https://media2.ldscdn.org/assets/music/2014-youth-music-album/2014-12-006-youll-never-run-out-of-love-256k-eng.mp3"
+            }
+        }
+    },
+    "2013": {
+        "year": "2013",
+        "slug": "stand-2013-youth-album",
+        "songs": {
+            "stand": {
+                "slug": "stand",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=stand",
+                "mp3_url": "https://assets.churchofjesuschrist.org/3c/1a/3c1af117373f45580faad6add594609096a25200/stand.mp3"
+            },
+            "its-a-good-start": {
+                "slug": "its-a-good-start",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=its-a-good-start",
+                "mp3_url": "https://assets.churchofjesuschrist.org/c7/cf/c7cf74ccdae5d9ea6b1229743b7e8fcdfdc0ac19/its_a_good_start.mp3"
+            },
+            "joy-of-life": {
+                "slug": "joy-of-life",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=joy-of-life",
+                "mp3_url": "https://assets.churchofjesuschrist.org/a4/10/a410bcb9d412a82692db74ba43c314cd900704c6/joy_of_life.mp3"
+            },
+            "look-up": {
+                "slug": "look-up",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=look-up",
+                "mp3_url": "https://assets.churchofjesuschrist.org/ce/98/ce984b2cddafc820a7068aa3d5ac4836553e4f3e/look_up.mp3"
+            },
+            "who-will": {
+                "slug": "who-will",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=who-will",
+                "mp3_url": "https://assets.churchofjesuschrist.org/9b/4b/9b4b56c6ccc6858b5bc9014ec0543c5c69dbb197/who_will.mp3"
+            },
+            "little-things-boothe-hobbs": {
+                "slug": "little-things-boothe-hobbs",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=little-things-boothe-hobbs",
+                "mp3_url": "https://assets.churchofjesuschrist.org/ca/fe/cafe4943ec253dc59ae88cccf2f0297120d5361c/little_things.mp3"
+            },
+            "mountains-to-climb": {
+                "slug": "mountains-to-climb",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=mountains-to-climb",
+                "mp3_url": "https://assets.churchofjesuschrist.org/9f/f9/9ff91fa89d0eda64a32de6cf7fd41c1ac1aa5b74/mountains_to_climb.mp3"
+            },
+            "still-and-quiet-moments": {
+                "slug": "still-and-quiet-moments",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=still-and-quiet-moments",
+                "mp3_url": "https://assets.churchofjesuschrist.org/67/16/6716c70969e65812c14f1005bc232820bcee85d6/still_and_quiet_moments.mp3"
+            },
+            "im-changed": {
+                "slug": "im-changed",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=im-changed",
+                "mp3_url": "https://assets.churchofjesuschrist.org/99/24/9924b3f0c9c54885fcc7621ee4c94f4b2ae35b4f/im_changed.mp3"
+            },
+            "if-we-forget-ourselves": {
+                "slug": "if-we-forget-ourselves",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=if-we-forget-ourselves",
+                "mp3_url": "https://assets.churchofjesuschrist.org/3d/ed/3deda36ec83e89ac60d40332b223beb84f518969/if_we_forget_ourselves.mp3"
+            },
+            "well-be-there": {
+                "slug": "well-be-there",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=well-be-there",
+                "mp3_url": "https://assets.churchofjesuschrist.org/27/32/27324a099e18a08ba0dee4e3062561fbc64d9fd9/well_be_there.mp3"
+            },
+            "good-friends": {
+                "slug": "good-friends",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=good-friends",
+                "mp3_url": "https://assets.churchofjesuschrist.org/d5/ba/d5baf421c351bde7493ae3292daa1e0dace8c354/good_friends.mp3"
+            },
+            "wherever-you-go": {
+                "slug": "wherever-you-go",
+                "info_url": "https://www.churchofjesuschrist.org/media/music/api?type=song&lang=eng&identifier=wherever-you-go",
+                "mp3_url": "https://assets.churchofjesuschrist.org/2d/95/2d95c3e3c86f47b6bf0c5cc7bc0bc43fddcbed25/wherever_you_go.mp3"
+            }
+        }
+    }
+}
